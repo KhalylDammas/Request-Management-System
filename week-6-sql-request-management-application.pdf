@@ -1,0 +1,1887 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Week 6 Assignment \055 SQL Server Request Management Application)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 10 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1830
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (1) Tj T* ET
+Q
+q
+1 0 0 1 57.84 663.6 cm
+Q
+q
+1 0 0 1 57.84 645.6 cm
+q
+.376471 .490196 .545098 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 194.808 0 Td (Week 2 Assignment) Tj T* -194.808 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 632.64 cm
+Q
+q
+1 0 0 1 57.84 572.64 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 35 Tm /F2 25 Tf 30 TL 47.41 0 Td (SQL Server Request Management) Tj T* 132.6875 0 Td (Application) Tj T* -180.0975 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 550 cm
+Q
+q
+1 0 0 1 57.84 532 cm
+q
+.376471 .490196 .545098 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 116.772 0 Td (Terminal-based Python assignment using pyodbc) Tj T* -116.772 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 499.6 cm
+Q
+q
+1 0 0 1 108 447.2 cm
+q
+.94902 .968627 .972549 rg
+n 0 52.4 396 -52.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 12 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (Recreate the request application using SQL Server for persistence and pyodbc for) Tj T* (database access.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.7 w
+n 0 52.4 m 396 52.4 l S
+n 0 0 m 396 0 l S
+n 0 0 m 0 52.4 l S
+n 396 0 m 396 52.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 364.4 cm
+Q
+q
+1 0 0 1 57.84 340.4 cm
+q
+.376471 .490196 .545098 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Scope: Python fundamentals, SQL Server, pyodbc, database connections, cursors, parameterized queries, and basic Git/GitHub) Tj T* (usage.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+225 645 165 32 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 253.648 658 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 5738
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (2) Tj T* ET
+Q
+q
+1 0 0 1 57.84 716.6 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (1. Assignment Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 695.4 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (Your task is to build a small ) Tj /F2 9.7 Tf (terminal-based Request Management Application) Tj /F1 9.7 Tf ( using Python and SQL Server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 675.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The application will allow a user to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 655 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Create a new request.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 637.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Save the request in a SQL Server database.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 620.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- View previously created requests.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 603.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Close the application and return later without losing the saved requests.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 586.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (There is no graphical user interface. All interaction should happen through the terminal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 554.2 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (2. Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 518.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (The purpose of this assignment is to apply the Python concepts covered during the first week while learning how an) Tj T* (application works with a SQL database.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 498.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (You are expected to practice:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 478.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Variables and basic Python types) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 461.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Conditions) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 444 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Loops) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 426.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Functions) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 409.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Lists and dictionaries) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 392.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Classes) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 375.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- SQL Server database creation and table creation) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 358 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Database connections and cursors) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 340.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Parameterized SQL queries) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 323.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Basic Git and GitHub usage) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 292.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (The focus is not on building a complex application. The focus is on organizing several simple concepts into a) Tj T* (program that works correctly from start to finish.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 260.2 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (3. Application Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 239 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (When the application starts, the user should see a simple menu similar to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.4 136.5 cm
+q
+.94902 .968627 .972549 rg
+n 0 96.5 457.2 -96.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.14902 .196078 .219608 rg
+BT 1 0 0 1 8 72.2 Tm /F3 8.3 Tf 11.5 TL (Request Management System) Tj T*  T* (1. Create Request) Tj T* (2. View Requests) Tj T* (3. Exit) Tj T*  T* (Choose an option:) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.6 w
+n 0 96.5 m 457.2 96.5 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 96.5 l S
+n 457.2 0 m 457.2 96.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 122.3 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The exact wording and formatting are your choice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 97.3 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3.1 Create Request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 78.1 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (When the user selects ) Tj /F2 9.7 Tf (Create Request) Tj /F1 9.7 Tf (, the application must ask for:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 57.9 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Request title) Tj T* 8 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 6304
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (3) Tj T* ET
+Q
+q
+1 0 0 1 57.84 721.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Request description) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 704.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Each request must also contain:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 684 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- A unique integer request ID) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 666.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- A status with the default value New) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 649.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (For example, a request may be displayed as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.4 581.6 cm
+q
+.94902 .968627 .972549 rg
+n 0 62 457.2 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.14902 .196078 .219608 rg
+BT 1 0 0 1 8 37.7 Tm /F3 8.3 Tf 11.5 TL (ID: 1) Tj T* (Title: Laptop problem) Tj T* (Description: My laptop is not connecting to Wi-Fi) Tj T* (Status: New) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.6 w
+n 0 62 m 457.2 62 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 62 l S
+n 457.2 0 m 457.2 62 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 567.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (After the request is created, the application should confirm that it was saved successfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 542.4 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3.2 Save Requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 509 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (Requests must be saved in the SQL Server database created for this assignment. The requests must not exist only) Tj T* (while the Python program is running.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 488.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The application should work correctly the first time it is executed, when the database contains no requests yet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 463.8 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3.3 View Requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 444.6 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (When the user selects ) Tj /F2 9.7 Tf (View Requests) Tj /F1 9.7 Tf (, the application should retrieve and display all previously created requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 424.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Each request should display at least:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.4 356.4 cm
+q
+.94902 .968627 .972549 rg
+n 0 62 457.2 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.14902 .196078 .219608 rg
+BT 1 0 0 1 8 37.7 Tm /F3 8.3 Tf 11.5 TL (Request #1) Tj T* (Title: Laptop problem) Tj T* (Description: My laptop is not connecting to Wi-Fi) Tj T* (Status: New) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.6 w
+n 0 62 m 457.2 62 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 62 l S
+n 457.2 0 m 457.2 62 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 342.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (If there are no requests, display a suitable message such as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.4 308.7 cm
+q
+.94902 .968627 .972549 rg
+n 0 27.5 457.2 -27.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.14902 .196078 .219608 rg
+BT 1 0 0 1 8 3.2 Tm /F3 8.3 Tf 11.5 TL (No requests have been created yet.) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.6 w
+n 0 27.5 m 457.2 27.5 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 27.5 l S
+n 457.2 0 m 457.2 27.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 283.7 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (3.4 Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 250.3 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (The application must provide an option for the user to exit normally. The application should continue showing the) Tj T* (menu until the user chooses to exit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 218.3 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (4. Database Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 197.1 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The trainee is responsible for creating and handling the SQL Server database and the request table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 176.9 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Create the database required by the application.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 159.7 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Create a table for storing requests.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 142.5 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use an integer primary key for the request ID.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 125.3 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Store the request title, description, and status.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 108.1 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Ensure that each request has a unique ID.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 90.9 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Ensure that newly created requests have the status New.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 59.5 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (The database name, table name, column names beyond the required data, and implementation details are part of) Tj T* (the trainee's design work. The finished application must still provide all required behavior.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6479
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (4) Tj T* ET
+Q
+q
+1 0 0 1 57.84 716.6 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (5. Technical Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 695.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The application must:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 675.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Be written in Python.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 658 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Run from the terminal.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 640.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use pyodbc to connect to SQL Server.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 623.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use SQL Server Authentication.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 606.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use connection and cursor context managers with with blocks.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 589.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use parameterized SQL queries for values supplied by the user.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 572 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use functions to organize the program.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 554.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use appropriate Python data structures such as lists and dictionaries.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 537.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Make use of a simple class where appropriate.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 520.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Continue running until the user chooses to exit.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 503.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Handle incorrect menu choices without immediately crashing.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 486 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Handle relevant database errors appropriately.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 454.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (Connection settings, including authentication details, may be written directly in the code for this assignment.) Tj T* (Managing configuration with dotenv or environment variables is outside the scope of this version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 434.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The application must implement the Create and Read parts of CRUD. Update and Delete are not required yet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 402.4 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (6. SQL Injection Prevention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 381.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The application must protect user-supplied values from SQL injection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 361 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Use parameterized queries when inserting or retrieving data based on user input.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 343.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Do not build SQL statements by concatenating user input into the SQL string.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 326.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Keep the SQL command structure separate from the values supplied by the user.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 309.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The trainee is responsible for applying the appropriate pyodbc approach in the implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 277.4 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (7. Out of Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 256.2 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (The following features are ) Tj /F2 9.7 Tf (not required) Tj /F1 9.7 Tf ( for this assignment:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 236 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Graphical user interface) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 218.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Website) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 201.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Local JSON persistence) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 184.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Database ORM) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 167.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- User accounts or login) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 150 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Multiple users) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 132.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- APIs) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 115.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Editing requests) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 98.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Deleting requests) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 81.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Changing request status) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 64 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Networking) Tj T* 8 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 4048
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (5) Tj T* ET
+Q
+q
+1 0 0 1 57.84 721.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Cloud storage) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 704.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- dotenv or environment-variable configuration) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 687 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- External Python frameworks) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 669.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Automated tests) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 652.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Do not add unnecessary complexity before the required functionality works correctly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 620.6 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (8. Minimum Expected Application Flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 599.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (A successful application should support this scenario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.4 197.9 cm
+q
+.94902 .968627 .972549 rg
+n 0 395.5 457.2 -395.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+%PreformattedPara
+.14902 .196078 .219608 rg
+BT 1 0 0 1 8 371.2 Tm /F3 8.3 Tf 11.5 TL (> python main.py) Tj T*  T* (Request Management System) Tj T*  T* (1. Create Request) Tj T* (2. View Requests) Tj T* (3. Exit) Tj T*  T* (Choose an option: 1) Tj T*  T* (Enter request title: Printer Problem) Tj T* (Enter request description: The office printer is not printing.) Tj T*  T* (Request created successfully.) Tj T*  T* (1. Create Request) Tj T* (2. View Requests) Tj T* (3. Exit) Tj T*  T* (Choose an option: 2) Tj T*  T* (Request #1) Tj T* (Title: Printer Problem) Tj T* (Description: The office printer is not printing.) Tj T* (Status: New) Tj T*  T* (1. Create Request) Tj T* (2. View Requests) Tj T* (3. Exit) Tj T*  T* (Choose an option: 3) Tj T*  T* (Goodbye.) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .886275 .901961 RG
+.6 w
+n 0 395.5 m 457.2 395.5 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 395.5 l S
+n 457.2 0 m 457.2 395.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.84 183.7 cm
+q
+BT 1 0 0 1 0 4.5 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (If the program is started again, ) Tj /F2 9.7 Tf (Request #1 must still exist in the SQL Server database) Tj /F1 9.7 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 151.7 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (9. Acceptance Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 130.5 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The assignment will be considered functionally complete when all of the following work:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 110.3 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The database can be created successfully.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 93.1 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The request table can be created successfully.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 75.9 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The application starts successfully from the terminal.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 58.7 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The application connects to SQL Server using pyodbc.) Tj T* 8 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 6067
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (6) Tj T* ET
+Q
+q
+1 0 0 1 57.84 721.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] A user can create a request.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 704.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Every request receives a unique integer ID.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 687 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Every new request has the status New.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 669.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] A request is saved to the SQL Server database.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 652.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Multiple requests can be created.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 635.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Previously created requests can be viewed.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 618.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Requests still exist after closing and reopening the application.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 601 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The program works when there are no existing requests.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 583.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] An incorrect menu choice does not immediately terminate the program.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 566.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] User-supplied values are handled using parameterized SQL queries.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 549.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] Connection and cursor resources are handled using with blocks.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 532.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td ([x] The user can exit the application normally.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 500.2 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (10. Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 479 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Submit the project through GitHub.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 458.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The repository should contain:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 438.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- The Python source code) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 421.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- The SQL statements or scripts required to create the database and table) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 404.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- A README.md) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 387 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (- Any other files required to run the application) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 369.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (The README should briefly explain:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 349.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (1. What the application does.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 332.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (2. How to create the database and table.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 315.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (3. How to configure the SQL Server connection.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 298 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (4. How to run the application.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 280.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 14 4.5 Tm /F1 9.7 Tf 14.2 TL -8 0 Td (5. Where requests are stored.) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.84 249.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 18.7 Tm /F1 9.7 Tf 14.2 TL (Use Git throughout the assignment and make meaningful commits as the application develops rather than) Tj T* (submitting the entire project as one final commit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 217.4 cm
+q
+.094118 .231373 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (11. Evaluation Focus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 192.4 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Functionality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 173.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Does the application create, save, reload, and display requests?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 148.2 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Python Fundamentals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 129 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Are variables, conditions, loops, functions, collections, and classes used appropriately?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 104 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Database Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 84.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Were the database and table created appropriately for the required application?) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 2718
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .886275 .901961 RG
+.5 w
+n 51.84 754.56 m 560.16 754.56 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 764.64 Tm (Week 2 Assignment) Tj T* ET
+.835294 .886275 .901961 RG
+n 51.84 36 m 560.16 36 l S
+BT /F1 8 Tf 9.6 TL ET
+.376471 .490196 .545098 rg
+BT 1 0 0 1 51.84 23.04 Tm (SQL Server Request Management Application) Tj T* ET
+BT 1 0 0 1 555.712 23.04 Tm (7) Tj T* ET
+Q
+q
+1 0 0 1 57.84 720.6 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Database Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 701.4 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Are the SQL Server connection and cursor handled correctly?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 676.4 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (SQL Injection Prevention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 657.2 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Are user-supplied values handled through parameterized queries?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 632.2 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Resource Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 613 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Are connection and cursor resources managed using with blocks?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 588 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Code Organization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 568.8 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Is the code reasonably clear and divided into understandable parts?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 543.8 cm
+q
+.164706 .615686 .560784 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (Git Usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 524.6 cm
+q
+.14902 .196078 .219608 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.7 Tf 14.2 TL (Was the project developed and submitted using a sensible Git workflow?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.84 510.6 cm
+Q
+q
+1 0 0 1 77.4 464.2 cm
+q
+.909804 .960784 .952941 rg
+n 0 46.4 457.2 -46.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 9 cm
+q
+BT 1 0 0 1 0 18.7 Tm 14.2 TL /F1 9.7 Tf .14902 .196078 .219608 rg (The goal is a ) Tj /F2 9.7 Tf (small, complete, working application) Tj /F1 9.7 Tf (. The trainee is expected to make the) Tj T* (implementation and design decisions needed to satisfy the requirements.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.164706 .615686 .560784 RG
+.7 w
+n 0 46.4 m 457.2 46.4 l S
+n 0 0 m 457.2 0 l S
+n 0 0 m 0 46.4 l S
+n 457.2 0 m 457.2 46.4 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+50 755 125 28 re
+f*
+0.376471 0.490196 0.545098 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 52 758 Tm
+(Week 6 Assignment) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000015 00000 n 
+0000000128 00000 n 
+0000000229 00000 n 
+0000000278 00000 n 
+0000000521 00000 n 
+0000002403 00000 n 
+0000002510 00000 n 
+0000002617 00000 n 
+0000002729 00000 n 
+0000002834 00000 n 
+0000003080 00000 n 
+0000008871 00000 n 
+0000008979 00000 n 
+0000009225 00000 n 
+0000015582 00000 n 
+0000015690 00000 n 
+0000015936 00000 n 
+0000022468 00000 n 
+0000022576 00000 n 
+0000022822 00000 n 
+0000026923 00000 n 
+0000027031 00000 n 
+0000027277 00000 n 
+0000033397 00000 n 
+0000033505 00000 n 
+0000033751 00000 n 
+0000036522 00000 n 
+trailer
+<<
+/Size 28
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+36630
+%%EOF
