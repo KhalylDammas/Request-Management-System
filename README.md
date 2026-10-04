@@ -1,3 +1,3 @@
 # Request Management System
 
-*This is a placeholder file*
+*Please see `week-6-sql-request-management-application.pdf` for task details*
