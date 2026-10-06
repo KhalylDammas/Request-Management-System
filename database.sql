@@ -7,3 +7,4 @@ Description VARCHAR(255),
 Status VARCHAR(50)
 
 );
+--create the database and Requests table 
